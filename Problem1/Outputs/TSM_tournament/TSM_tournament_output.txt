@@ -1,0 +1,340 @@
+output from TSM_tournament.py
+
+parameter:
+
+param_grid = {
+    "population_size": [50, 100, 200],  # Different population sizes
+    "mutation_rate": [0.05, 0.1, 0.2],  # Different mutation rates
+    "crossover_rate": [0.6, 0.8, 0.9]   # Different crossover probabilities
+}
+
+
+>>
+--- Testing: Population=50, Mutation=0.05, Crossover=0.6 ---
+Generation 0: Best Distance = 948.25
+Generation 50: Best Distance = 585.64
+Generation 100: Best Distance = 499.12
+Generation 150: Best Distance = 468.49
+Generation 200: Best Distance = 464.19
+Generation 250: Best Distance = 457.81
+Generation 300: Best Distance = 457.81
+Generation 350: Best Distance = 457.81
+Generation 400: Best Distance = 440.80
+Generation 450: Best Distance = 440.80
+
+--- Testing: Population=50, Mutation=0.05, Crossover=0.8 ---
+Generation 0: Best Distance = 930.55
+Generation 50: Best Distance = 540.77
+Generation 100: Best Distance = 384.33
+Generation 150: Best Distance = 384.33
+Generation 200: Best Distance = 384.33
+Generation 250: Best Distance = 384.33
+Generation 300: Best Distance = 384.33
+Generation 350: Best Distance = 384.33
+Generation 400: Best Distance = 382.42
+Generation 450: Best Distance = 382.42
+
+--- Testing: Population=50, Mutation=0.05, Crossover=0.9 ---
+Generation 0: Best Distance = 994.14
+Generation 50: Best Distance = 426.35
+Generation 100: Best Distance = 395.02
+Generation 150: Best Distance = 379.63
+Generation 200: Best Distance = 379.63
+Generation 250: Best Distance = 379.63
+Generation 300: Best Distance = 375.85
+Generation 350: Best Distance = 375.85
+Generation 400: Best Distance = 375.85
+Generation 450: Best Distance = 375.85
+
+--- Testing: Population=50, Mutation=0.1, Crossover=0.6 ---
+Generation 0: Best Distance = 920.85
+Generation 50: Best Distance = 660.40
+Generation 100: Best Distance = 582.56
+Generation 150: Best Distance = 564.74
+Generation 200: Best Distance = 564.74
+Generation 250: Best Distance = 559.17
+Generation 300: Best Distance = 559.17
+Generation 350: Best Distance = 559.17
+Generation 400: Best Distance = 559.17
+Generation 450: Best Distance = 559.17
+
+--- Testing: Population=50, Mutation=0.1, Crossover=0.8 ---
+Generation 0: Best Distance = 892.79
+Generation 50: Best Distance = 547.94
+Generation 100: Best Distance = 527.88
+Generation 150: Best Distance = 527.88
+Generation 200: Best Distance = 496.39
+Generation 250: Best Distance = 496.39
+Generation 300: Best Distance = 493.73
+Generation 350: Best Distance = 493.73
+Generation 400: Best Distance = 493.73
+Generation 450: Best Distance = 493.73
+
+--- Testing: Population=50, Mutation=0.1, Crossover=0.9 ---
+Generation 0: Best Distance = 934.49
+Generation 50: Best Distance = 473.66
+Generation 100: Best Distance = 453.35
+Generation 150: Best Distance = 453.35
+Generation 200: Best Distance = 453.35
+Generation 250: Best Distance = 453.35
+Generation 300: Best Distance = 453.35
+Generation 350: Best Distance = 453.35
+Generation 400: Best Distance = 453.35
+Generation 450: Best Distance = 453.35
+
+--- Testing: Population=50, Mutation=0.2, Crossover=0.6 ---
+Generation 0: Best Distance = 993.07
+Generation 50: Best Distance = 490.99
+Generation 100: Best Distance = 490.99
+Generation 150: Best Distance = 490.99
+Generation 200: Best Distance = 490.99
+Generation 250: Best Distance = 490.99
+Generation 300: Best Distance = 490.99
+Generation 350: Best Distance = 490.99
+Generation 400: Best Distance = 490.99
+Generation 450: Best Distance = 490.99
+
+--- Testing: Population=50, Mutation=0.2, Crossover=0.8 ---
+Generation 0: Best Distance = 857.83
+Generation 50: Best Distance = 516.85
+Generation 100: Best Distance = 491.18
+Generation 150: Best Distance = 479.27
+Generation 200: Best Distance = 479.27
+Generation 250: Best Distance = 479.27
+Generation 300: Best Distance = 479.27
+Generation 350: Best Distance = 479.27
+Generation 400: Best Distance = 479.27
+Generation 450: Best Distance = 479.27
+
+--- Testing: Population=50, Mutation=0.2, Crossover=0.9 ---
+Generation 0: Best Distance = 892.63
+Generation 50: Best Distance = 550.50
+Generation 100: Best Distance = 470.43
+Generation 150: Best Distance = 440.80
+Generation 200: Best Distance = 440.80
+Generation 250: Best Distance = 440.80
+Generation 300: Best Distance = 440.80
+Generation 350: Best Distance = 440.80
+Generation 400: Best Distance = 440.80
+Generation 450: Best Distance = 440.80
+
+--- Testing: Population=100, Mutation=0.05, Crossover=0.6 ---
+Generation 0: Best Distance = 872.49
+Generation 50: Best Distance = 590.05
+Generation 100: Best Distance = 590.05
+Generation 150: Best Distance = 590.05
+Generation 200: Best Distance = 590.05
+Generation 250: Best Distance = 590.05
+Generation 300: Best Distance = 590.05
+Generation 350: Best Distance = 590.05
+Generation 400: Best Distance = 590.05
+Generation 450: Best Distance = 590.05
+
+--- Testing: Population=100, Mutation=0.05, Crossover=0.8 ---
+Generation 0: Best Distance = 855.36
+Generation 50: Best Distance = 438.60
+Generation 100: Best Distance = 399.19
+Generation 150: Best Distance = 399.19
+Generation 200: Best Distance = 399.19
+Generation 250: Best Distance = 399.19
+Generation 300: Best Distance = 399.19
+Generation 350: Best Distance = 399.19
+Generation 400: Best Distance = 399.19
+Generation 450: Best Distance = 399.19
+
+--- Testing: Population=100, Mutation=0.05, Crossover=0.9 ---
+Generation 0: Best Distance = 888.24
+Generation 50: Best Distance = 498.94
+Generation 100: Best Distance = 438.58
+Generation 150: Best Distance = 416.63
+Generation 200: Best Distance = 414.26
+Generation 250: Best Distance = 412.42
+Generation 300: Best Distance = 412.42
+Generation 350: Best Distance = 412.42
+Generation 400: Best Distance = 412.42
+Generation 450: Best Distance = 412.42
+
+--- Testing: Population=100, Mutation=0.1, Crossover=0.6 ---
+Generation 0: Best Distance = 796.22
+Generation 50: Best Distance = 489.33
+Generation 100: Best Distance = 482.00
+Generation 150: Best Distance = 435.91
+Generation 200: Best Distance = 435.91
+Generation 250: Best Distance = 435.91
+Generation 300: Best Distance = 435.91
+Generation 350: Best Distance = 435.91
+Generation 400: Best Distance = 435.91
+Generation 450: Best Distance = 435.91
+
+--- Testing: Population=100, Mutation=0.1, Crossover=0.8 ---
+Generation 0: Best Distance = 922.84
+Generation 50: Best Distance = 407.39
+Generation 100: Best Distance = 404.86
+Generation 150: Best Distance = 404.86
+Generation 200: Best Distance = 404.86
+Generation 250: Best Distance = 404.86
+Generation 300: Best Distance = 404.86
+Generation 350: Best Distance = 404.86
+Generation 400: Best Distance = 404.86
+Generation 450: Best Distance = 404.86
+
+--- Testing: Population=100, Mutation=0.1, Crossover=0.9 ---
+Generation 0: Best Distance = 844.37
+Generation 50: Best Distance = 440.07
+Generation 100: Best Distance = 400.76
+Generation 150: Best Distance = 400.76
+Generation 200: Best Distance = 400.76
+Generation 250: Best Distance = 400.76
+Generation 300: Best Distance = 400.76
+Generation 350: Best Distance = 400.76
+Generation 400: Best Distance = 400.76
+Generation 450: Best Distance = 400.76
+
+--- Testing: Population=100, Mutation=0.2, Crossover=0.6 ---
+Generation 0: Best Distance = 882.14
+Generation 50: Best Distance = 496.54
+Generation 100: Best Distance = 488.13
+Generation 150: Best Distance = 488.13
+Generation 200: Best Distance = 488.13
+Generation 250: Best Distance = 488.13
+Generation 300: Best Distance = 488.13
+Generation 350: Best Distance = 488.13
+Generation 400: Best Distance = 488.13
+Generation 450: Best Distance = 488.13
+
+--- Testing: Population=100, Mutation=0.2, Crossover=0.8 ---
+Generation 0: Best Distance = 875.35
+Generation 50: Best Distance = 483.70
+Generation 100: Best Distance = 448.02
+Generation 150: Best Distance = 448.02
+Generation 200: Best Distance = 448.02
+Generation 250: Best Distance = 448.02
+Generation 300: Best Distance = 448.02
+Generation 350: Best Distance = 448.02
+Generation 400: Best Distance = 448.02
+Generation 450: Best Distance = 448.02
+
+--- Testing: Population=100, Mutation=0.2, Crossover=0.9 ---
+Generation 0: Best Distance = 858.62
+Generation 50: Best Distance = 453.03
+Generation 100: Best Distance = 453.03
+Generation 150: Best Distance = 453.03
+Generation 200: Best Distance = 453.03
+Generation 250: Best Distance = 453.03
+Generation 300: Best Distance = 453.03
+Generation 350: Best Distance = 453.03
+Generation 400: Best Distance = 453.03
+Generation 450: Best Distance = 453.03
+
+--- Testing: Population=200, Mutation=0.05, Crossover=0.6 ---
+Generation 0: Best Distance = 872.72
+Generation 50: Best Distance = 471.72
+Generation 100: Best Distance = 471.72
+Generation 150: Best Distance = 471.72
+Generation 200: Best Distance = 471.72
+Generation 250: Best Distance = 471.72
+Generation 300: Best Distance = 471.72
+Generation 350: Best Distance = 471.72
+Generation 400: Best Distance = 471.72
+Generation 450: Best Distance = 471.72
+
+--- Testing: Population=200, Mutation=0.05, Crossover=0.8 ---
+Generation 0: Best Distance = 863.05
+Generation 50: Best Distance = 413.68
+Generation 100: Best Distance = 382.42
+Generation 150: Best Distance = 382.42
+Generation 200: Best Distance = 382.42
+Generation 250: Best Distance = 382.42
+Generation 300: Best Distance = 382.42
+Generation 350: Best Distance = 382.42
+Generation 400: Best Distance = 382.42
+Generation 450: Best Distance = 382.42
+
+--- Testing: Population=200, Mutation=0.05, Crossover=0.9 ---
+Generation 0: Best Distance = 901.71
+Generation 50: Best Distance = 377.71
+Generation 100: Best Distance = 375.85
+Generation 150: Best Distance = 375.85
+Generation 200: Best Distance = 375.85
+Generation 250: Best Distance = 375.85
+Generation 300: Best Distance = 375.85
+Generation 350: Best Distance = 375.85
+Generation 400: Best Distance = 375.85
+Generation 450: Best Distance = 375.85
+
+--- Testing: Population=200, Mutation=0.1, Crossover=0.6 ---
+Generation 0: Best Distance = 801.12
+Generation 50: Best Distance = 479.49
+Generation 100: Best Distance = 479.49
+Generation 150: Best Distance = 479.49
+Generation 200: Best Distance = 479.49
+Generation 250: Best Distance = 479.49
+Generation 300: Best Distance = 479.49
+Generation 350: Best Distance = 479.49
+Generation 400: Best Distance = 479.49
+Generation 450: Best Distance = 479.49
+
+--- Testing: Population=200, Mutation=0.1, Crossover=0.8 ---
+Generation 0: Best Distance = 909.63
+Generation 50: Best Distance = 375.85
+Generation 100: Best Distance = 375.85
+Generation 150: Best Distance = 375.85
+Generation 200: Best Distance = 375.85
+Generation 250: Best Distance = 375.85
+Generation 300: Best Distance = 375.85
+Generation 350: Best Distance = 375.85
+Generation 400: Best Distance = 375.85
+Generation 450: Best Distance = 375.85
+
+--- Testing: Population=200, Mutation=0.1, Crossover=0.9 ---
+Generation 0: Best Distance = 881.75
+Generation 50: Best Distance = 414.63
+Generation 100: Best Distance = 399.19
+Generation 150: Best Distance = 399.19
+Generation 200: Best Distance = 399.19
+Generation 250: Best Distance = 399.19
+Generation 300: Best Distance = 399.19
+Generation 350: Best Distance = 399.19
+Generation 400: Best Distance = 399.19
+Generation 450: Best Distance = 399.19
+
+--- Testing: Population=200, Mutation=0.2, Crossover=0.6 ---
+Generation 0: Best Distance = 842.43
+Generation 50: Best Distance = 375.85
+Generation 100: Best Distance = 375.85
+Generation 150: Best Distance = 375.85
+Generation 200: Best Distance = 375.85
+Generation 250: Best Distance = 375.85
+Generation 300: Best Distance = 375.85
+Generation 350: Best Distance = 375.85
+Generation 400: Best Distance = 375.85
+Generation 450: Best Distance = 375.85
+
+--- Testing: Population=200, Mutation=0.2, Crossover=0.8 ---
+Generation 0: Best Distance = 824.84
+Generation 50: Best Distance = 453.35
+Generation 100: Best Distance = 453.35
+Generation 150: Best Distance = 453.35
+Generation 200: Best Distance = 453.35
+Generation 250: Best Distance = 453.35
+Generation 300: Best Distance = 453.35
+Generation 350: Best Distance = 453.35
+Generation 400: Best Distance = 453.35
+Generation 450: Best Distance = 453.35
+
+--- Testing: Population=200, Mutation=0.2, Crossover=0.9 ---
+Generation 0: Best Distance = 831.02
+Generation 50: Best Distance = 399.19
+Generation 100: Best Distance = 399.19
+Generation 150: Best Distance = 399.19
+Generation 200: Best Distance = 399.19
+Generation 250: Best Distance = 399.19
+Generation 300: Best Distance = 399.19
+Generation 350: Best Distance = 399.19
+Generation 400: Best Distance = 399.19
+Generation 450: Best Distance = 399.19
+
+Best Parameters Found: {'population_size': 200, 'mutation_rate': 0.2, 'crossover_rate': 0.6}
+Best Distance Achieved: 375.85
+
+Process finished with exit code 0
