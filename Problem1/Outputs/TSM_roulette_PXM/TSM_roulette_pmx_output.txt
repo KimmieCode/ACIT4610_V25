@@ -1,0 +1,306 @@
+Output from TSM_roulette_pmx.py
+
+parameters used:
+param_grid = {
+    "population_size": [50, 100, 200],  
+    "mutation_rate": [0.05, 0.1, 0.2],  
+    "crossover_rate": [0.6, 0.8, 0.9]   
+}
+
+
+>>
+--- Testing: Population=50, Mutation=0.05, Crossover=0.6 ---
+Generation 0: Best Distance = 910.65
+Generation 50: Best Distance = 743.21
+Generation 100: Best Distance = 713.93
+
+Stopping early at generation 106 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=50, Mutation=0.05, Crossover=0.8 ---
+Generation 0: Best Distance = 867.25
+Generation 50: Best Distance = 723.11
+
+Stopping early at generation 64 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=50, Mutation=0.05, Crossover=0.9 ---
+Generation 0: Best Distance = 873.32
+Generation 50: Best Distance = 792.07
+Generation 100: Best Distance = 658.76
+
+Stopping early at generation 124 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=50, Mutation=0.1, Crossover=0.6 ---
+Generation 0: Best Distance = 925.04
+Generation 50: Best Distance = 807.95
+Generation 100: Best Distance = 754.46
+
+Stopping early at generation 106 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=50, Mutation=0.1, Crossover=0.8 ---
+Generation 0: Best Distance = 857.95
+Generation 50: Best Distance = 748.35
+Generation 100: Best Distance = 696.90
+
+Stopping early at generation 134 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=50, Mutation=0.1, Crossover=0.9 ---
+Generation 0: Best Distance = 822.46
+Generation 50: Best Distance = 752.47
+
+Stopping early at generation 72 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=50, Mutation=0.2, Crossover=0.6 ---
+Generation 0: Best Distance = 910.27
+Generation 50: Best Distance = 751.37
+Generation 100: Best Distance = 700.46
+
+Stopping early at generation 110 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=50, Mutation=0.2, Crossover=0.8 ---
+Generation 0: Best Distance = 870.79
+Generation 50: Best Distance = 725.86
+
+Stopping early at generation 82 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=50, Mutation=0.2, Crossover=0.9 ---
+Generation 0: Best Distance = 907.72
+Generation 50: Best Distance = 780.48
+Generation 100: Best Distance = 765.82
+Generation 150: Best Distance = 730.50
+
+Stopping early at generation 194 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=100, Mutation=0.05, Crossover=0.6 ---
+Generation 0: Best Distance = 795.29
+Generation 50: Best Distance = 756.35
+Generation 100: Best Distance = 633.48
+
+Stopping early at generation 119 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=100, Mutation=0.05, Crossover=0.8 ---
+Generation 0: Best Distance = 864.34
+Generation 50: Best Distance = 720.60
+
+Stopping early at generation 75 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=100, Mutation=0.05, Crossover=0.9 ---
+Generation 0: Best Distance = 858.75
+Generation 50: Best Distance = 740.97
+
+Stopping early at generation 70 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=100, Mutation=0.1, Crossover=0.6 ---
+Generation 0: Best Distance = 832.33
+Generation 50: Best Distance = 626.77
+
+Stopping early at generation 60 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=100, Mutation=0.1, Crossover=0.8 ---
+Generation 0: Best Distance = 808.74
+Generation 50: Best Distance = 770.35
+Generation 100: Best Distance = 653.34
+
+Stopping early at generation 118 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=100, Mutation=0.1, Crossover=0.9 ---
+Generation 0: Best Distance = 882.13
+Generation 50: Best Distance = 752.86
+Generation 100: Best Distance = 744.76
+
+Stopping early at generation 113 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=100, Mutation=0.2, Crossover=0.6 ---
+Generation 0: Best Distance = 806.13
+Generation 50: Best Distance = 667.78
+
+Stopping early at generation 56 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=100, Mutation=0.2, Crossover=0.8 ---
+Generation 0: Best Distance = 874.38
+Generation 50: Best Distance = 704.37
+
+Stopping early at generation 86 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=100, Mutation=0.2, Crossover=0.9 ---
+Generation 0: Best Distance = 819.02
+Generation 50: Best Distance = 756.72
+Generation 100: Best Distance = 622.12
+
+Stopping early at generation 147 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=200, Mutation=0.05, Crossover=0.6 ---
+Generation 0: Best Distance = 864.26
+Generation 50: Best Distance = 724.58
+
+Stopping early at generation 71 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=200, Mutation=0.05, Crossover=0.8 ---
+Generation 0: Best Distance = 816.55
+Generation 50: Best Distance = 672.45
+Generation 100: Best Distance = 634.93
+
+Stopping early at generation 146 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=200, Mutation=0.05, Crossover=0.9 ---
+Generation 0: Best Distance = 788.61
+Generation 50: Best Distance = 670.92
+
+Stopping early at generation 89 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=200, Mutation=0.1, Crossover=0.6 ---
+Generation 0: Best Distance = 812.04
+Generation 50: Best Distance = 729.32
+
+Stopping early at generation 72 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=200, Mutation=0.1, Crossover=0.8 ---
+Generation 0: Best Distance = 822.86
+Generation 50: Best Distance = 696.10
+
+Stopping early at generation 81 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=200, Mutation=0.1, Crossover=0.9 ---
+Generation 0: Best Distance = 852.00
+Generation 50: Best Distance = 717.62
+
+Stopping early at generation 90 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=200, Mutation=0.2, Crossover=0.6 ---
+Generation 0: Best Distance = 789.60
+Generation 50: Best Distance = 736.90
+Generation 100: Best Distance = 667.44
+
+Stopping early at generation 117 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=200, Mutation=0.2, Crossover=0.8 ---
+Generation 0: Best Distance = 872.32
+Generation 50: Best Distance = 724.01
+
+Stopping early at generation 77 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=200, Mutation=0.2, Crossover=0.9 ---
+Generation 0: Best Distance = 802.26
+Generation 50: Best Distance = 747.10
+Generation 100: Best Distance = 718.95
+
+Stopping early at generation 128 due to convergence (no improvement for 50 generations).
+
+Best Parameters Found: {'population_size': 100, 'mutation_rate': 0.2, 'crossover_rate': 0.9}
+Best Distance Achieved: 622.12
+
+--- Testing: Population=50, Mutation=0.05, Crossover=0.6 ---
+Generation 0: Best Distance = 728.99
+Generation 50: Best Distance = 728.99
+
+Stopping early at generation 50 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=50, Mutation=0.05, Crossover=0.8 ---
+Generation 0: Best Distance = 885.42
+Generation 50: Best Distance = 719.02
+
+Stopping early at generation 57 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=50, Mutation=0.05, Crossover=0.9 ---
+Generation 0: Best Distance = 922.75
+Generation 50: Best Distance = 763.80
+Generation 100: Best Distance = 700.65
+
+Stopping early at generation 118 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=50, Mutation=0.1, Crossover=0.6 ---
+Generation 0: Best Distance = 805.02
+Generation 50: Best Distance = 786.36
+Generation 100: Best Distance = 690.99
+
+Stopping early at generation 146 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=50, Mutation=0.1, Crossover=0.8 ---
+Generation 0: Best Distance = 742.02
+Generation 50: Best Distance = 723.55
+
+Stopping early at generation 69 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=50, Mutation=0.1, Crossover=0.9 ---
+Generation 0: Best Distance = 875.83
+Generation 50: Best Distance = 723.91
+
+Stopping early at generation 96 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=50, Mutation=0.2, Crossover=0.6 ---
+Generation 0: Best Distance = 907.08
+Generation 50: Best Distance = 717.66
+
+Stopping early at generation 81 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=50, Mutation=0.2, Crossover=0.8 ---
+Generation 0: Best Distance = 910.49
+Generation 50: Best Distance = 793.41
+Generation 100: Best Distance = 722.97
+Generation 150: Best Distance = 698.04
+
+Stopping early at generation 159 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=50, Mutation=0.2, Crossover=0.9 ---
+Generation 0: Best Distance = 903.60
+Generation 50: Best Distance = 781.80
+Generation 100: Best Distance = 738.48
+Generation 150: Best Distance = 729.53
+
+Stopping early at generation 166 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=100, Mutation=0.05, Crossover=0.6 ---
+Generation 0: Best Distance = 859.47
+Generation 50: Best Distance = 753.76
+Generation 100: Best Distance = 680.35
+
+Stopping early at generation 143 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=100, Mutation=0.05, Crossover=0.8 ---
+Generation 0: Best Distance = 903.33
+Generation 50: Best Distance = 763.80
+Generation 100: Best Distance = 722.52
+
+Stopping early at generation 118 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=100, Mutation=0.05, Crossover=0.9 ---
+Generation 0: Best Distance = 796.47
+Generation 50: Best Distance = 670.97
+
+Stopping early at generation 54 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=100, Mutation=0.1, Crossover=0.6 ---
+Generation 0: Best Distance = 860.22
+Generation 50: Best Distance = 729.13
+
+Stopping early at generation 65 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=100, Mutation=0.1, Crossover=0.8 ---
+Generation 0: Best Distance = 845.15
+Generation 50: Best Distance = 687.13
+
+Stopping early at generation 69 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=100, Mutation=0.1, Crossover=0.9 ---
+Generation 0: Best Distance = 905.13
+Generation 50: Best Distance = 711.48
+
+Stopping early at generation 91 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=100, Mutation=0.2, Crossover=0.6 ---
+Generation 0: Best Distance = 872.92
+Generation 50: Best Distance = 727.40
+
+Stopping early at generation 73 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=100, Mutation=0.2, Crossover=0.8 ---
+Generation 0: Best Distance = 867.62
+Generation 50: Best Distance = 712.39
+
+Stopping early at generation 83 due to convergence (no improvement for 50 generations).
+
+--- Testing: Population=100, Mutation=0.2, Crossover=0.9 ---
+Generation 0: Best Distance = 911.71
+
+…
+Best Parameters Found: {'population_size':100, 'mutation_rate': 0.2, 'crossover_rate': 0.9}
+Best Distance Achieved: 622.12
